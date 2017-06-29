@@ -1,34 +1,34 @@
-Como a visualização de um diff entre duas versões de um arquivo ajuda você a ver o bug que foi introduzido?
+﻿ Como a visualização de um diff entre duas versões de um arquivo ajuda você a ver o bug que foi introduzido?
 
-Ao utilizamos o Diff
- podemos ver exatamente
- onde está a diferença 
- entre os arquivos.
+	Ao utilizamos o Diff podemos ver exatamente onde está a diferença entre os arquivos.
+
  
  Como ter fácil acesso a todo o histórico de um arquivo pode torná-lo um programador mais eficiente no longo prazo?
  
- Acompanhar a envolução dos projetos e corrigir possíveis bugs...
+ 	Acompanhar a evolução dos projetos e corrigir possíveis bugs...
  
  
+ Na sua opinião, quais são os prós e contras de escolher manualmente quando criar um commit, como ocorre no Git, v. o salvamento automático de versões, como no Google 																				 Docs?
  
- Na sua opinião, quais são os prós e contras de escolher manualmente quando criar um commit, como ocorre no Git, v. o salvamento automático de versões, como no Google Docs?
+ 	Prós ==> não ter um numero elevado arquivos e mudanças.
+ 	Contra ==> esquecer da dar commit e se perder...
  
- prós ==> não ter um numero elevado arquivos e mudanças.
- contra ==> esquecer da dar commit e se perder...
+ Por que você acha que alguns sistemas de controle de versão, como o Git, permitem salvar vários arquivos em um commit, enquanto outros, como o Google Docs, tratam 																	cada arquivo separadamente?
  
- Por que você acha que alguns sistemas de controle de versão, como o Git, permitem salvar vários arquivos em um commit, enquanto outros, como o Google Docs, tratam cada arquivo separadamente?
- 
- são mais especificos para o desenvolvimento de projetos com vários arquivos
+ 	São mais específicos para o desenvolvimento de projetos com vários arquivos
+
  
  Como usar os comandos git log e git diff para visualizar o histórico dos arquivos?
  
- git log exibe todas as mudanças realizadas quem realizou e a hora
- git diff compara os commit pelo os IDs
+ 	git log exibe todas as mudanças realizadas quem realizou e a hora.
+ 	git diff compara os commit pelo os IDs.
+
  
  De que modo o controle de versão pode dar a você mais segurança para fazer alterações que podem danificar algo?
- 
- mantendo as versões que não foram modificadas
+
+ 	Mantendo as versões que não foram modificadas.
+
  
  Agora que você já configurou a sua área de trabalho, você quer usar o Git para quê?
  
- projetos Android
+ 	Aprendizagem. 

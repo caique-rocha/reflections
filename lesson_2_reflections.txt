@@ -1,3 +1,35 @@
-O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
+ O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
 
-uma pasta com o nome .git é criada para poder amazenar as alterações de cada commits 
+	uma pasta com o nome .git é criada para poder armazenar as alterações de cada commits.
+
+
+ Em que se difere a área de preparação do diretório de trabalho e do repositório? Qual valor você acha que ela oferece?
+
+	na primeira ela não sofrera ações do commit a segunda sim.
+
+
+ Como você pode usar a área de preparação para garantir que tenha um commit por alteração lógica?
+
+	analisando as mais relevantes antes de fazer o commit
+
+
+ Quais são algumas das situações em que branches seriam úteis para manter seu histórico organizado? Como branches ajudariam?
+
+	ao fazer mudanças significativas, no entanto pretendendo manter uma base do projeto...
+
+
+ Como os diagramas ajudam a visualizar a estrutura de branches?
+
+	deixando bem claro os segmentos e bifurcações.
+
+
+ Qual é o resultado da mesclagem de dois branches? Por que o representamos no diagrama dessa forma?
+
+	unir as partes do código que são relevantes.
+
+
+ Quais são os prós e contras da mesclagem automática do Git v. sempre fazer mesclagens manualmente?
+
+	Pro - manter o master atualizado.
+
+	Contra - ter alterações indesejáveis.
