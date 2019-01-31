@@ -1,6 +1,6 @@
 ﻿ Quando gostaria de usar um repositório remoto em vez de manter o trabalho local?
 
-	Quando desejasse insirir de forma direta sem utilizar o push...
+	Quando desejasse inserir de forma direta sem utilizar o push...
 
 
 Por que você prefere efetuar pull de alterações manualmente do que deixar o Git atualizar-se automaticamente com o seu 												   repositório remoto?
